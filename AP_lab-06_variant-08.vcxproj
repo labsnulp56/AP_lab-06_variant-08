@@ -146,6 +146,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Enter.c" />
+    <ClCompile Include="Print.c" />
+    <ClCompile Include="qs_struct.c" />
+    <ClCompile Include="Source.c" />
+    <ClCompile Include="Success.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
